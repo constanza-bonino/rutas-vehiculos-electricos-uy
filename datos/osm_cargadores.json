@@ -1,0 +1,644 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-24T13:56:04Z",
+    "timestamp_areas_base": "2026-11-24T08:03:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5993352114,
+  "lat": -34.9332525,
+  "lon": -54.9418481,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "operator": "UTE",
+    "output": "22kw"
+  }
+},
+{
+  "type": "node",
+  "id": 5993361151,
+  "lat": -34.9674762,
+  "lon": -54.9518508,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "name": "Estacion Peninsula UTE",
+    "operator": "UTE",
+    "output": "22kw"
+  }
+},
+{
+  "type": "node",
+  "id": 5993389637,
+  "lat": -34.4963435,
+  "lon": -54.3273222,
+  "tags": {
+    "addr:city": "Rocha",
+    "addr:country": "UY",
+    "addr:milestone": "206.400",
+    "addr:postcode": "27000",
+    "addr:state": "Rocha",
+    "addr:street": "Ruta 9 Coronel Leonardo Olivera",
+    "amenity": "charging_station",
+    "capacity": "1",
+    "nohousenumber": "yes",
+    "operator": "UTE",
+    "output": "43kw"
+  }
+},
+{
+  "type": "node",
+  "id": 5993426377,
+  "lat": -34.7702022,
+  "lon": -55.5762156,
+  "tags": {
+    "addr:milestone": "63.500",
+    "addr:street": "Ruta Interbalnearia General Líber Seregni",
+    "amenity": "charging_station",
+    "capacity": "1",
+    "operator": "UTE",
+    "output": "22kw"
+  }
+},
+{
+  "type": "node",
+  "id": 5993435965,
+  "lat": -34.8448807,
+  "lon": -56.0200731,
+  "tags": {
+    "addr:street": "Ruta 101 km 19",
+    "amenity": "charging_station",
+    "capacity": "1",
+    "operator": "UTE",
+    "output": "43kw"
+  }
+},
+{
+  "type": "node",
+  "id": 5993456591,
+  "lat": -34.8961764,
+  "lon": -56.1404073,
+  "tags": {
+    "addr:housenumber": "3463",
+    "addr:street": "José Leguizamón",
+    "amenity": "charging_station",
+    "capacity": "2",
+    "operator": "UTE",
+    "output": "7,4kw"
+  }
+},
+{
+  "type": "node",
+  "id": 5993656481,
+  "lat": -34.5590781,
+  "lon": -56.7448552,
+  "tags": {
+    "addr:full": "Ruta 1 km 66",
+    "amenity": "charging_station",
+    "capacity": "1",
+    "charging_station:output": "22 kW",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 5993680014,
+  "lat": -34.3225732,
+  "lon": -57.3499464,
+  "tags": {
+    "addr:full": "Ruta 2. esq, Bvar. Baltasar Brum",
+    "amenity": "charging_station",
+    "capacity": "1",
+    "charging_station:output": "22 kW",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 5993689288,
+  "lat": -34.4717493,
+  "lon": -57.8418434,
+  "tags": {
+    "addr:full": "Av. Buenos Aires y 18 de Julio",
+    "amenity": "charging_station",
+    "capacity": "1",
+    "charging_station:output": "43 kW",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 5993811519,
+  "lat": -34.8851983,
+  "lon": -56.1953647,
+  "tags": {
+    "addr:street": "General Fausto Aguilar",
+    "amenity": "charging_station",
+    "capacity": "1",
+    "charging_station:output": "22 kW",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 7560665898,
+  "lat": -34.0020321,
+  "lon": -53.5520893,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "16",
+    "authentication:membership_card": "yes",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UTE",
+    "socket:type2": "1",
+    "voltage": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 11090569589,
+  "lat": -34.9146473,
+  "lon": -56.1854513,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "43 kW",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 11090569590,
+  "lat": -34.9146516,
+  "lon": -56.1855217,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "43 kW",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 11090569591,
+  "lat": -34.9146559,
+  "lon": -56.1855921,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "43 kW",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 11090569592,
+  "lat": -34.9146602,
+  "lon": -56.1856625,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 11296502607,
+  "lat": -34.9128143,
+  "lon": -56.1696685,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 11296502608,
+  "lat": -34.9128273,
+  "lon": -56.1696850,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 11296502609,
+  "lat": -34.9128403,
+  "lon": -56.1697015,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 11296502610,
+  "lat": -34.9128534,
+  "lon": -56.1697180,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 11296502612,
+  "lat": -34.9063853,
+  "lon": -56.1854922,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "43 kW",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 11296502613,
+  "lat": -34.9063274,
+  "lon": -56.1854986,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "43 kW",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 11296502614,
+  "lat": -34.9062115,
+  "lon": -56.1855114,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "43 kW",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 11296502615,
+  "lat": -34.9062694,
+  "lon": -56.1855050,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "43 kW",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 11296502616,
+  "lat": -34.9061536,
+  "lon": -56.1855178,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "43 kW",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 11296502617,
+  "lat": -34.9060957,
+  "lon": -56.1855242,
+  "tags": {
+    "amenity": "charging_station",
+    "amperage": "43 kW",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 13822818821,
+  "lat": -33.5170575,
+  "lon": -56.8983866,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "UTE",
+    "capacity": "2",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 13822818822,
+  "lat": -33.5280506,
+  "lon": -56.8947040,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:app": "yes",
+    "authentication:nfc": "yes",
+    "brand": "UTE",
+    "capacity": "2",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "60",
+    "truck": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13825133988,
+  "lat": -33.5081911,
+  "lon": -56.9368459,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "UTE",
+    "capacity": "1",
+    "fee": "yes",
+    "opening_hours": "24/7",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "30"
+  }
+},
+{
+  "type": "node",
+  "id": 13825133989,
+  "lat": -33.5081843,
+  "lon": -56.9368979,
+  "tags": {
+    "amenity": "charging_station",
+    "authentication:app": "yes",
+    "authentication:nfc": "yes",
+    "brand": "UTE",
+    "capacity": "1",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "socket:type2_combo": "1",
+    "socket:type2_combo:output": "30",
+    "truck": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13846913188,
+  "lat": -32.8131895,
+  "lon": -56.5037410,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "UTE",
+    "capacity": "2",
+    "covered": "yes",
+    "motorcar": "yes",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 13849973808,
+  "lat": -34.0970219,
+  "lon": -56.1964104,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "UTE",
+    "capacity": "2",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "60",
+    "truck": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13854073964,
+  "lat": -34.7839210,
+  "lon": -56.2235774,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "eOne",
+    "capacity": "2",
+    "fee": "yes",
+    "motorcar": "yes",
+    "opening_hours": "24/7",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "180"
+  }
+},
+{
+  "type": "node",
+  "id": 14241009901,
+  "lat": -34.3625835,
+  "lon": -57.0574721,
+  "tags": {
+    "amenity": "charging_station",
+    "name": "Cargador UTE Ecilda Paullier",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 14318675301,
+  "lat": -34.1971828,
+  "lon": -53.8489320,
+  "tags": {
+    "amenity": "charging_station",
+    "check_date": "2026-10-25",
+    "check_date:opening_hours": "2026-10-25",
+    "opening_hours": "24/7",
+    "operator": "UTE",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 14324091102,
+  "lat": -34.0368204,
+  "lon": -53.5629089,
+  "tags": {
+    "amenity": "charging_station",
+    "check_date": "2026-10-27",
+    "check_date:opening_hours": "2026-10-27",
+    "opening_hours": "24/7",
+    "operator": "UTE",
+    "socket:type2_combo": "2",
+    "socket:type2_combo:output": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 14347719326,
+  "lat": -31.7752801,
+  "lon": -54.6870922,
+  "tags": {
+    "amenity": "charging_station",
+    "fee": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "node",
+  "id": 14369053001,
+  "lat": -34.9098507,
+  "lon": -56.2045509,
+  "tags": {
+    "amenity": "charging_station",
+    "name": "Estacion de carga"
+  }
+},
+{
+  "type": "node",
+  "id": 14371699101,
+  "lat": -34.8902841,
+  "lon": -56.1852711,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "4",
+    "covered": "no",
+    "name": "Batoví",
+    "opening_hours": "24/7",
+    "operator": "UTE"
+  }
+},
+{
+  "type": "way",
+  "id": 1541070875,
+  "center": {
+    "lat": -34.8874390,
+    "lon": -56.1041989
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "UTE",
+    "capacity": "8",
+    "check_date:socket": "2026-10-12",
+    "fee": "yes",
+    "name": "Electrolinera UTE Valencia",
+    "operator": "UTE",
+    "operator:wikidata": "Q1665583",
+    "payment:account_cards": "yes",
+    "payment:app": "yes",
+    "socket:type2_combo": "6"
+  }
+},
+{
+  "type": "way",
+  "id": 1541070876,
+  "center": {
+    "lat": -34.8844003,
+    "lon": -56.0581259
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "UTE",
+    "capacity": "12",
+    "name": "Electrolinera UTE Parque Grauert",
+    "operator": "UTE",
+    "operator:wikidata": "Q1665583",
+    "payment:app": "yes",
+    "payment:cards": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1546348152,
+  "center": {
+    "lat": -34.9143828,
+    "lon": -56.1834231
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "UTE",
+    "capacity": "4",
+    "name": "Electrolinera UTE Plaza Jefferson",
+    "operator": "UTE",
+    "operator:wikidata": "Q1665583",
+    "payment:account_cards": "yes",
+    "payment:app": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1562631969,
+  "center": {
+    "lat": -34.9146396,
+    "lon": -56.1855911
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "charging_station",
+    "brand": "UTE",
+    "capacity": "4",
+    "fee": "yes",
+    "name": "Electrolinera UTE Cumparsita",
+    "operator": "UTE",
+    "operator:wikidata": "Q1665583",
+    "payment:account_cards": "yes",
+    "payment:app": "yes"
+  }
+}
+
+  ]
+}
